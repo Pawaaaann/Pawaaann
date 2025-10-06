@@ -79,6 +79,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pawaaaann/Pawaaaann/output/github-snake.svg" />
 </picture>
 
+---
+
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Pawaaaann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+--
 
 ## 📫 Connect With Me  
 
