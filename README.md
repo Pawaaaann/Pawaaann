@@ -26,8 +26,8 @@
 ### 📫 Connect With Me  
 - 💼 [LinkedIn][(https://linkedin.com/](https://www.linkedin.com/in/pawan-r-98587b292/))  
 - 📧 Email: kit27.ad37@gmail.com  
-- 🌐 Portfolio: [Your Website](https://your-portfolio.com)  
+ 
 
 ---
 
-⭐️ From [Pawan](https://github.com/your-username)
+⭐️ From [Pawan][(https://github.com/Pawaaaann](https://github.com/Pawaaaann))
