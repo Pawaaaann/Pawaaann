@@ -1,10 +1,26 @@
-# Hi there 👋, I'm Pawan  
+<div align="center">
 
-### 🚀 About Me  
-- 🎓 3rd year student, AIDS Department @ KIT College  
-- 💻 Passionate about coding, problem-solving, and AI/ML  
-- 🔥 Active on platforms like **LeetCode** and **CodeChef**   
-- 📚 Strong logical thinking and consistent practice in coding  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:6A5ACD:00CED1:FF69B4&height=300&section=header&text=Pawan%20R&fontSize=70&fontAlignY=35&desc=DSA%20Enthusiast%20%7C%20Aspring-Software%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=3&fontAlign=50&font=Monoton" alt="Header" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Full-Stack+Developer+%26+Problem+Solver;AI+%26+Data+Science+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pawaaaann&color=6A5ACD&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Pawaaaann?style=for-the-badge&logo=github&color=6A5ACD&labelColor=FF69B4)
+![GitHub User's stars](https://img.shields.io/github/stars/Pawaaaann?style=for-the-badge&logo=github&color=6A5ACD&labelColor=FF69B4)
+
+</div>
+
+<div align="center">
+
+**Aspiring Software Development Engineer** passionate about building **full-stack applications**, exploring **AI & Data Science**, and solving problems.  
+Currently pursuing **B.Tech in AI & Data Science**, with hands-on experience in **React, Express.js, Python** and **node.js**.  
+Completed projects in **full-stack development** and actively practicing on **LeetCode** and **CodeChef**.
+
+</div>  
 
 ---
 
