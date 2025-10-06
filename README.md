@@ -99,9 +99,14 @@ Completed projects in **full-stack development** and actively practicing on **Le
 ---
 <div align="center">
 
+<div align="center">
+
 ### Projects
 
 [![interviewer](https://github-readme-stats.vercel.app/api/pin/?username=Pawaaaann&repo=interviewer&theme=light)](https://github.com/Pawaaaann/interviewer)
+[![leaveportal](https://github-readme-stats.vercel.app/api/pin/?username=Pawaaaann&repo=leaveportal&theme=light)](https://github.com/Pawaaaann/leaveportal)
+
+---
 
 **interviewer**  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -110,7 +115,17 @@ Completed projects in **full-stack development** and actively practicing on **Le
 
 A virtual interview assistant that evaluates candidates' responses using AI.
 
+---
+
+**leaveportal**  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00BFFF?style=for-the-badge)](https://your-live-demo-link.com)
+
+An automated leave application portal streamlining leave management processes.
+
 </div>
+
 
 ---
 
