@@ -63,6 +63,7 @@ Completed projects in **full-stack development** and actively practicing on **Le
 <p>
   <a href="[https://leetcode.com/](https://leetcode.com/u/Pawan1914/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="[https://www.codechef.com/](https://www.codechef.com/users/pawan72)"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
 </p>
 
 
@@ -94,6 +95,22 @@ Completed projects in **full-stack development** and actively practicing on **Le
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawaaaann/Pawaaaann/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pawaaaann/Pawaaaann/output/github-snake.svg" />
 </picture>
+
+---
+<div align="center">
+
+### Projects
+
+[![interviewer](https://github-readme-stats.vercel.app/api/pin/?username=Pawaaaann&repo=interviewer&theme=light)](https://github.com/Pawaaaann/interviewer)
+
+**interviewer**  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00BFFF?style=for-the-badge)](https://your-live-demo-link.com)
+
+A virtual interview assistant that evaluates candidates' responses using AI.
+
+</div>
 
 ---
 
