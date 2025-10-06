@@ -71,6 +71,7 @@ Completed projects in **full-stack development** and actively practicing on **Le
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pawaaaann&show_icons=true&theme=radical&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawaaaann&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawaaaann&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -97,9 +98,9 @@ Completed projects in **full-stack development** and actively practicing on **Le
 </picture>
 
 ---
-<div align="center">
+<div>
 
-<div align="center">
+<div>
 
 ### Projects
 
@@ -109,18 +110,18 @@ Completed projects in **full-stack development** and actively practicing on **Le
 ---
 
 **interviewer**  
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00BFFF?style=for-the-badge)](https://your-live-demo-link.com)
 
-A virtual interview assistant that evaluates candidates' responses using AI.
+A virtual interview assistant that evaluates candidates responses using AI.
 
 ---
 
 **leaveportal**  
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00BFFF?style=for-the-badge)](https://your-live-demo-link.com)
 
 An automated leave application portal streamlining leave management processes.
 
@@ -134,6 +135,22 @@ An automated leave application portal streamlining leave management processes.
 ![trophy](https://github-profile-trophy.vercel.app/?username=Pawaaaann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 --
+
+<div>
+
+### 🚀 Currently Learning
+
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+</div>
+
+---
+
 
 ## 📫 Connect With Me  
 
